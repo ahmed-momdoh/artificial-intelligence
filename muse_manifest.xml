@@ -1,0 +1,79 @@
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="MUS.HTML" resolutions="1x" timestamp="1623019658752">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="page-2.css" crc="464301477" ref="page-2"/>
+    <file name="page-3.css" crc="3946777540" ref="page-3"/>
+    <file name="index.css" crc="4029873931" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:page-3:page-2"/>
+    <file name="museutils.js" crc="340535759" ref="index:page-3:page-2"/>
+    <file name="whatinput.js" crc="86476730" ref="index:page-3:page-2"/>
+    <file name="museconfig.js" crc="4286661555" ref="index:page-3:page-2"/>
+    <file name="jquery.musemenu.js" crc="510910590" ref="index:page-3:page-2"/>
+    <file name="webpro.js" crc="4059564322" ref="index:page-3"/>
+    <file name="musewpdisclosure.js" crc="3883500470" ref="index"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:page-3:page-2"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="index:page-3"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="index:page-3"/>
+    <file name="touchswipe.js" crc="4075097462" ref="index:page-3"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:page-3:page-2"/>
+    <file name="require.js" crc="7928878" ref="index:page-3:page-2"/>
+    <file name="form_check.php" crc="4020933626" ref="index"/>
+    <file name="form_throttle.php" crc="4259590256" ref="index"/>
+    <file name="form_process.php" crc="37464564" ref="index"/>
+    <file name="form-u1564.php" crc="287971449" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="whatsapp image 2021-06-06 at 115911 pm-crop-u231.jpg" crc="171437319" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="whatsapp image 2021-06-06 at 115911 pm (1).jpg" crc="4078956308" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="whatsapp image 2021-06-06 at 115908 pm (1).jpg" crc="372373683" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="whatsapp image 2021-06-06 at 115909 pm.jpg" crc="3828504854" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="whatsapp image 2021-06-06 at 115905 pm.jpg" crc="381916150" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="whatsapp image 2021-06-06 at 115909 pm-crop-u1296.jpg" crc="4005914013" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="whatsapp image 2021-06-06 at 115911 pm (1)-crop-u1456.jpg" crc="3955841274" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="whatsapp image 2021-06-06 at 115905 pm-crop-u1496.jpg" crc="73666795" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="whatsapp image 2021-06-06 at 115908 pm-crop-u1536.jpg" crc="3788211442" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="whatsapp image 2021-06-06 at 115910 pm-crop-u1436.jpg" crc="3922313430" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="whatsapp image 2021-06-06 at 115901 pm-crop-u1476.jpg" crc="3816700319" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="whatsapp image 2021-06-06 at 115908 pm (1)-crop-u1516.jpg" crc="3991467871" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="whatsapp image 2021-06-06 at 115910 pm-crop-u1430.jpg" crc="4083978947" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="whatsapp image 2021-06-06 at 115901 pm-crop-u1470.jpg" crc="457321603" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="whatsapp image 2021-06-06 at 115908 pm-crop-u1530.jpg" crc="4227771734" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="3871017784" seo="true" mt="1623019011256" redirect="true"/>
+  <file name="page-3.html" crc="373477683" seo="true" mt="1623019585143" redirect="true"/>
+  <file name="page-2.html" crc="3864169785" seo="true" mt="1623019533965" redirect="true"/>
+</manifest>
